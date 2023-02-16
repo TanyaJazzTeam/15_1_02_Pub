@@ -10,10 +10,6 @@ msgstr "Ein Screenshot, der die Amp-Sidebar zeigt."
 msgid "A website screenshot."
 msgstr "Ein Website-Screenshot."
 
-#: /views/partials/footer.j2:41
-msgid "AMP 2020"
-msgstr "AMP 2020"
-
 #: /views/partials/footer.j2:74
 msgid "AMP Brand Materials"
 msgstr "AMP-Markenmaterialien"
