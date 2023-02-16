@@ -38,10 +38,6 @@ msgstr "AMP-Framework"
 msgid "AMP HTML Specification"
 msgstr "AMP-HTML-Spezifikation"
 
-#: /views/partials/footer.j2:2
-msgid "2019"
-msgstr "2019"
-
 #: /content/amp-dev/support/faq/overview.md
 msgid "AMP Overview"
 msgstr "AMP-Übersicht"
