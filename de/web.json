@@ -1,0 +1,18 @@
+{
+  "layout": "Technisches Detail",
+  "tags": [
+    "Netz"
+  ],
+  "section": "Netz",
+  "eyebrow": "Adaptar la Web",
+  "resources": [
+    {
+      "title": "web.dev",
+      "url": "https://web.dev/"
+    },
+    {
+      "title": "Chrome-Entwickler",
+      "url": "https://developer.chrome.com/"
+    }
+  ]
+}
